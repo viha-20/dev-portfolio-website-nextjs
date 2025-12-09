@@ -2,8 +2,8 @@
 ### Hi, I'm Vihangi Jayasekara 👋  
 **Full Stack Developer | Cyber Security Enthusiast | UI/UX Lover**
 
-Live Demo: https://dev-portfolio-website-nextjs.vercel.app/
-
+Live Demo: https://dev-portfolio-website-nextjs-mjhf.vercel.app/                                                                                
+  
 ---
 
 ### 🚀 About This Project
