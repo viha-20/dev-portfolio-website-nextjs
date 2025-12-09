@@ -40,7 +40,7 @@ export const projects: Project[] = [
         technologies: ['Spring Boot', 'OpenWeatherMap API', 'React', 'CSS3', 'HTML5','JavaScript'],
         githubLink: 'https://github.com/viha-20/Weather-Auth-App',
         demoLink: '#',
-        image: '/projects/Weather-App.png',
+        image: '/projects/Weather.png',
       },
       {
         title: 'Windows Forms Calculator',
