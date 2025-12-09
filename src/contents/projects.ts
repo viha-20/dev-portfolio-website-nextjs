@@ -37,8 +37,8 @@ export const projects: Project[] = [
       {
         title: 'Weather App',
         description: 'A full-stack web application that provides real-time weather information for cities worldwide with a beautiful, responsive interface and secure authentication.',
-        technologies: ['Spring Boot', 'OpenWeatherMap API', 'React', 'CSS3', 'HTML5'],
-        githubLink: 'https://github.com',
+        technologies: ['Spring Boot', 'OpenWeatherMap API', 'React', 'CSS3', 'HTML5','JavaScript'],
+        githubLink: 'https://github.com/viha-20/Weather-Auth-App',
         demoLink: '#',
         image: '/projects/Weather-App.png',
       },
